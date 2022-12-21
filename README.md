@@ -42,3 +42,4 @@ After a draft release is created, make your final changes from the release page 
 - [Ignite CLI docs](https://docs.ignite.com)
 - [Cosmos SDK docs](https://docs.cosmos.network)
 - [Developer Chat](https://discord.gg/ignite)
+# starchain
